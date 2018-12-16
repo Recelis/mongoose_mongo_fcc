@@ -1,0 +1,26 @@
+{
+  "name": "mongoose_mongo_fcc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon -w index.js index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Recelis/mongoose_mongo_fcc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Recelis/mongoose_mongo_fcc/issues"
+  },
+  "homepage": "https://github.com/Recelis/mongoose_mongo_fcc#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongodb": "^3.1.10",
+    "mongoose": "^5.4.0",
+    "nodemon": "^1.18.9"
+  }
+}
